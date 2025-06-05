@@ -8,10 +8,11 @@ I'm passionate about software development and continuously learning new technolo
 ## 📫 Connect with me
 
 <p align="left">
-  oguzhan_kobe@hotmail.com
   <a href="https://www.linkedin.com/in/oguzhankaya12/" target="_blank style="margin-left: 100px;"">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  oguzhan_kobe@hotmail.com
 </p>
 
 ---
